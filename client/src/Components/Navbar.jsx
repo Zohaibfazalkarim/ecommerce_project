@@ -95,7 +95,7 @@ const CustomBadge = styled(Badge)`
             </Left>
             <Center>
              <CustomLink to="/">
-              <Logo>Lama.</Logo>
+              <Logo>Hasil</Logo>
             </CustomLink>
             </Center>
             <Right>
